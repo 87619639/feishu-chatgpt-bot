@@ -42,7 +42,9 @@
    - `im:message`
    - `im:message.group_at_msg`
    - `im:message.p2p_msg`
+  
 ![image](https://github.com/user-attachments/assets/df59829f-baaa-4e21-af15-b4a14c87e5da)
+
 
 4. 在"机器人"功能中启用机器人
 ![image](https://github.com/user-attachments/assets/7014c588-b474-4b63-9946-9e268f0088fe)
