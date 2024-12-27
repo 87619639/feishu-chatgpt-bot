@@ -18,6 +18,13 @@
 - `/clear` - 清除上下文记忆
 - `/image [提示词]` - 生成图片
 
+## 中转站API推荐
+免魔法可用，支持大多数AI，例如：ChatGPT，Gemini，Claude
+
+云雾API官网：https://yunwu.ai/register?aff=6x9L
+
+[云雾API官网](https://yunwu.ai/register?aff=6x9L)
+
 ## 部署指南
 
 ### 环境要求
