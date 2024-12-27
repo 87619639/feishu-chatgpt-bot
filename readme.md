@@ -45,7 +45,7 @@
 ![image](https://github.com/user-attachments/assets/df59829f-baaa-4e21-af15-b4a14c87e5da)
 
 4. 在"机器人"功能中启用机器人
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7014c588-b474-4b63-9946-9e268f0088fe)
 
 6. 配置消息卡片请求网址：`http://您的域名:9002/webhook`
 7. 添加事件
@@ -181,5 +181,7 @@ MIT License
 # 更多交流
 
 遇到问题，可以加入飞书群沟通~
-![img_v3_02hv_e20f8b77-f288-4935-9eb9-25a82273419g](https://github.com/user-attachments/assets/bb117cbc-b0ab-454e-b1f7-17c48f92aa14)
+![image](https://github.com/user-attachments/assets/cb9e61a3-6c10-467e-a70c-ee11fea83035)
+
+
 
