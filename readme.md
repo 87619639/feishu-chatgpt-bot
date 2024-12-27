@@ -35,8 +35,15 @@
    - `im:message`
    - `im:message.group_at_msg`
    - `im:message.p2p_msg`
+![image](https://github.com/user-attachments/assets/df59829f-baaa-4e21-af15-b4a14c87e5da)
+
 4. 在"机器人"功能中启用机器人
-5. 配置消息卡片请求网址：`http://您的域名:9002/webhook`
+![Uploading image.png…]()
+
+6. 配置消息卡片请求网址：`http://您的域名:9002/webhook`
+7. 添加事件
+![image](https://github.com/user-attachments/assets/b4cba316-1546-4cf2-bf8a-7602f1a5b890)
+
 
 ### 本地部署
 
