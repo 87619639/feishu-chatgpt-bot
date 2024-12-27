@@ -1,0 +1,17 @@
+version: '3'
+services:
+  feishu-chatgpt:
+    build: .
+    container_name: feishu-chatgpt
+    ports:
+      - "9002:9002"
+    environment:
+      - APPID=${APPID}
+      - SECRET=${SECRET}
+      - BOTNAME=${BOTNAME}
+      - KEY=${KEY}
+      - MODEL=gpt-4
+      - MAX_TOKEN=${MAX_TOKEN}
+      - PORT={YOUR_PORT}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL}
+    restart: always 

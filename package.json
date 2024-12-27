@@ -1,0 +1,24 @@
+{
+  "name": "feishu-chatbot",
+  "version": "1.0.0",
+  "description": "Feishu ChatGPT Bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "pm2:start": "pm2 start app.js --name feishu-chatbot",
+    "pm2:stop": "pm2 stop feishu-chatbot",
+    "pm2:restart": "pm2 restart feishu-chatbot",
+    "pm2:logs": "pm2 logs feishu-chatbot"
+  },
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "^1.41.0",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.77.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
