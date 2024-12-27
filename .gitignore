@@ -5,6 +5,8 @@ yarn-debug.log*
 yarn-error.log*
 package-lock.json
 yarn.lock
+feishuchatgpt-bot.pub
+feishuchatgpt-bot
 
 # 环境配置
 .env
